@@ -2,7 +2,7 @@
 
 m0rkcoin is a fork of ByteCoin and has a strong focus on privacy and anonymity. 
 
-m0rkcoin focuses on open-source, community, quality and ease of use. We will release all software we create as open-source with permissive license, pull requests, suggestions and feedback is welcome. We aim to create quality apps built on top of modern technology stacks.
+m0rkcoin focuses on open-source, community, quality and ease of use. We will release all software we create as open-source with permissive license. Pull requests, suggestions and feedback are welcome. We aim to create quality apps built on top of modern technology stacks.
 
 
 ## Features
@@ -58,15 +58,18 @@ No pre-mine has been made for m0rkcoin. All coins are available to miners.
 
 ## Links
 
+**Releases**
 - Documentation: https://github.com/m0rkcoin/m0rkcoin/blob/master/README.md
 - Wallet and Daemon: https://github.com/m0rkcoin/m0rkcoin/releases
 - GUI Wallet: https://github.com/m0rkcoin/m0rkcoin-wallet-gui/releases
 
+**Services**
 - Website: http://m0rkcoin.com
 - Pool: https://mine.m0rk.space/
 - Blockchain Explorer: https://explorer.m0rk.space
 - Transaction Explorer: https://explorer.m0rk.space
 
+**Social**
 - Reddit: https://www.reddit.com/r/m0rkcoin/
 - Discord: https://discord.gg/dEsfhZA
 - Telegram: https://t.me/m0rkcoin
