@@ -62,10 +62,10 @@ No pre-mine has been made for m0rkcoin. All coins are available to miners.
 - Wallet and Daemon: https://github.com/m0rkcoin/m0rkcoin/releases
 - GUI Wallet: https://github.com/m0rkcoin/m0rkcoin-wallet-gui/releases
 
-- Website: TBA
+- Website: http://m0rkcoin.com
 - Pool: https://mine.m0rk.space/
-- Blockchain Explorer: TBA
-- Transaction Explorer: TBA
+- Blockchain Explorer: https://explorer.m0rk.space
+- Transaction Explorer: https://explorer.m0rk.space
 
 - Reddit: https://www.reddit.com/r/m0rkcoin/
 - Discord: https://discord.gg/dEsfhZA
